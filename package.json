@@ -1,0 +1,21 @@
+{
+  "name": "yus-cli-template-multi-vue",
+  "version": "1.0.0",
+  "description": "A Vue.js multi-pages project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "yus-cli": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CN-kicoyu/yus-cli-template-multi-vue.git"
+  },
+  "author": "kicoyu < kicoyu@126.com >",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CN-kicoyu/yus-cli-template-multi-vue/issues"
+  },
+  "homepage": "https://github.com/CN-kicoyu/yus-cli-template-multi-vue#readme"
+}
